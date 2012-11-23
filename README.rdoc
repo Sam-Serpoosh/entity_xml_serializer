@@ -1,0 +1,7 @@
+==Entity Xml Serializer
+
+This is a simple serializer which serializes entity to an xml format. It can be useful for storing entities along with their attributes and their values in an xml format as text (which needs less amount of space when that is an issue)!
+
+This formatted entity can also be encrypted after and transferred via network in distributed software so different componenets of the software can communicate with each other this way when they need to!
+
+Of course some other usage can come out of this! But the point of this sample code was a fun TDD exercise and a little bit of Ruby meta-programming!
